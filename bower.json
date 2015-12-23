@@ -1,0 +1,9 @@
+{
+  "name": "marionette-requirejs",
+  "dependencies": {
+    "requirejs": "2.1.5",
+    "requirejs-text": "~2.0.5",
+    "marionette": "~2.4.3",
+    "bootstrap": "~3.3.5"
+  }
+}
